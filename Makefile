@@ -11,7 +11,7 @@ download-revealjs:
 		--output lib/reveal.js-plugins-4.2.5.tar.gz \
 		--progress-bar \
 		--location \
-		--url "https://github.com/rajgoel/reveal.js-plugins/archive/3.9.0.tar.gz"
+		--url "https://github.com/rajgoel/reveal.js-plugins/archive/4.2.5.tar.gz"
 	tar -zxf lib/reveal.js-plugins-4.2.5.tar.gz -C lib/
 	mv lib/reveal.js-plugins-4.2.5/* reveal.js/plugin/
 

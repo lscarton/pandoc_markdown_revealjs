@@ -1,5 +1,6 @@
 # Pandoc with Markdown and Reveal.js
-
+Forked from https://github.com/FilBot3/pandoc_markdown_revealjs
+Updated to use Reveal.js 4.5
 ## Overview
 
 Using `pandoc` convert `markdown` files into a `reveal.js` slide show to oooh
@@ -10,7 +11,6 @@ and aww your participants.
 * `curl` - I developed this on a Linux machine with cURL
 * `pandoc` - [https://pandoc.org]
 
-I also used Vim with `coc.nvim` and the `coc-markdownlint` plugin.
 
 ## Setup
 

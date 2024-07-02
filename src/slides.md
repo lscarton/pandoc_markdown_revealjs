@@ -13,3 +13,6 @@ This should be it's own set of slides.
 ## Another sub-slide
 
 This is a sub-slide of a second header.
+
+---
+$y=3x-\sigma$
